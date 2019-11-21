@@ -1,3 +1,12 @@
+Pool: Azure Pipelines
+Image: ubuntu-latest
+Agent: Hosted Agent
+Started: Today at 10:14 AM
+Duration: 36s
+
+Job preparation parameters
+100% tests passed
+
 
 # Contributing
 
